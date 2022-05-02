@@ -1,5 +1,6 @@
 # Employee-tracker-D
-# READ ME GENERATOR
+# To track your staff!
+
 
 ## Description
 The Employee tracker will keep track of all your employees and allow you to add new ones, and delete others.
@@ -11,7 +12,7 @@ The Employee tracker will keep track of all your employees and allow you to add 
 * Before that you will need to run the schema.sql and seeds.sql to get the values.
 * Answer all questions!
 * After Answering all questions,you will see the data displayed.
-* To see it, right click in the markdown file and click on preview
+
 * Enjoy!
 ## Demo
 Please find below a quick video on how this app works. After this video, I suggest you to get .mp4 extension to watch it.
