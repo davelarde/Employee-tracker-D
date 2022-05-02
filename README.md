@@ -17,11 +17,11 @@ The Employee tracker will keep track of all your employees and allow you to add 
 Please find below a quick video on how this app works. After this video, I suggest you to get .mp4 extension to watch it.
 
 
-["Dani's Employee Tracker"](./Demo/readme%20generator%20video%20demo.mp4)
+["Dani's Employee Tracker"](./Demos/screen%20recording%20employee%20tracker.mp4)
 
 ## Gif Demo
 In case Video is not working for you,find below a gif to my homework!
-["Dani's Employee tracker GIF"](./Demo/readme-generator-video-demo.gif)
+["Dani's Employee tracker GIF"](./Demos/screen-recording-employee-tracke.gif)
 
 
 
@@ -29,7 +29,7 @@ In case Video is not working for you,find below a gif to my homework!
 
 
 
-!["Dani's Employee tracker GIF"](./Demo/readme-generator-video-demo.gif)
+!["Dani's Employee tracker GIF"](./Demos/screen-recording-employee-tracke.gif)
 
 ## Github Repo
 Click on the link below to find the link to my repo!
