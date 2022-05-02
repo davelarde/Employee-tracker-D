@@ -33,7 +33,7 @@ In case Video is not working for you,find below a gif to my homework!
 
 ## Github Repo
 Click on the link below to find the link to my repo!
-["Employee tracker D"](https://github.com/davelarde/Readme-gen.git)
+["Employee tracker D"](https://github.com/davelarde/Employee-tracker-D.git)
 
 
 
